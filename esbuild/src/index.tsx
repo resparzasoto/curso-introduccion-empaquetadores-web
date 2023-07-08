@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './components/App';
 
 ReactDOM.render(
-    <App message="Platzi ESBuild example" />,
+    <App message="ESBuild example" />,
     document.getElementById('app')
 )
 
